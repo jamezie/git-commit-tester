@@ -1,2 +1,4 @@
 First change to test rebase vs merge
 
+Second change to test rebase vs merge
+
